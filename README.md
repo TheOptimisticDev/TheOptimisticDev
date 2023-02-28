@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @OptimisticUnderdog
-- 👀 I’m interested in Front-End Web Development
-- 🌱 I’m currently learning Software Engineering at Alx Africa & Web Development at Zaio Coding School
+- 👋 Hi, I’m Mfumu Wealth Mabunda.
+- 👀 I’m interested in Front-End Web Development.
+- 🌱 I’m currently learning Software Engineering at Alx Africa & Web Development at Zaio Coding School.
 - 📫 Reach me @mabunda.wealth@gmail.com OR www.linkedin.com/in/mfumu-wealth-mabunda
 
 <!---
