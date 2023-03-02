@@ -1,3 +1,4 @@
+![images](https://user-images.githubusercontent.com/110236527/222503436-29112a0d-3d0d-430f-9ae7-5180e639ca24.png)
 - 👋 Hi, I’m Mfumu Wealth Mabunda.
 - 👀 I’m interested in Front-End Web Development.
 - 🌱 I’m currently learning Software Engineering at Alx Africa & Web Development at Zaio Coding School.
