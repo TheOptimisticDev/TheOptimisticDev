@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend development student from South Africa</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/format:jpg/resize:fill:80:56/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=optimisticunderdog&label=Profile%20views&color=0e75b6&style=flat" alt="optimisticunderdog" /> </p>
+<p align=""> <img src="https://komarev.com/ghpvc/?username=optimisticunderdog&label=Profile%20views&color=0e75b6&style=flat" alt="optimisticunderdog" /> </p>
 
 - 🌱 I’m currently learning **Software Engineering at ALX Africa & Web Development at Zaio Coding School**
 
