@@ -1,13 +1,39 @@
 ![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
 <h1 align="center">Hello! 👋, I am Mfumu Wealth Mabunda</h1>
-<h3 align="center">A Full-Stack Software Engineer | Front-End | React.</h3>
+<h3 align="center">A Software Engineer | Front-End | React | Aspiring DevOps Professional.</h3>
 <img align="" alt="coding" width="" src="https://miro.medium.com/v2/format:jpg/resize:fill:80:56/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align=""> <img src="https://komarev.com/ghpvc/?username=theoptimisticdev&label=Profile%20views&color=0e75b6&style=flat" alt="theoptimisticdev" /> </p>
 
 <a href="https://www.buymeacoffee.com/mabundawealth" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=mabundawealth&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me a Coffee"></a>
+## 📌 About Me
 
-- 📫 How to reach me **mabunda.wealth@gmail.com**
+I’m currently diving deep into **DevOps** practices to enhance automation, infrastructure management, and deployment processes.
+
+- **Terraform** 🌍 – Learning to define infrastructure as code, provision cloud resources, and manage multi-cloud environments with a focus on scalability and automation.
+- **Ansible** 🤖 – Exploring configuration management, automating server setup, and deploying applications across environments with Ansible playbooks.
+- **Docker** 🐳 – Gaining hands-on experience in containerization, creating Docker images, and managing containerized applications to ensure consistency and portability across environments.
+- **Kubernetes** ☸️ – Mastering container orchestration, deploying and scaling applications using Kubernetes clusters, and managing workloads with Helm for simplified deployment.
+- **CI/CD (Jenkins, GitHub Actions, GitLab CI/CD)** 🚀 – Automating build, test, and deployment pipelines to speed up the software delivery lifecycle and ensure robust, continuous integration.
+
+🔹 **Project Focus:**  
+Automating infrastructure provisioning, building CI/CD pipelines, managing containerized applications, and deploying scalable systems to the cloud. Exploring cloud-native technologies and best practices for high availability and performance optimization.
+
+
+## 📫 How to Reach Me
+
+- ✉️ Email: **mabunda.wealth@gmail.com**
+- 💼 LinkedIn: [yourprofile](https://linkedin.com/in/yourprofile)
+- 🌍 Portfolio: [yourwebsite.com](https://yourwebsite.com)
+
+## 🎯 Future Goals
+
+- ✅ Master **DevOps practices** such as Infrastructure as Code (IaC), automation, CI/CD, and containerization for efficient deployment workflows.
+- 📱 Learn and develop **mobile applications** using **React Native** while implementing DevOps principles for continuous delivery and automation.
+- 🏆 Contribute to **open-source DevOps projects** to enhance my skills in automation tools, cloud technologies, and infrastructure management.
+- 🌟 Focus on **performance optimization** and **scalability** to ensure that applications are highly available, efficient, and resilient.
+- 💡 Develop expertise in **cloud platforms** (AWS, Azure, GCP) and **Kubernetes** for managing infrastructure and improving the overall reliability of systems.
+- 🚀 Transition to **Site Reliability Engineering (SRE)** by gaining expertise in **monitoring, incident management**, and ensuring the reliability of large-scale systems.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -55,7 +81,28 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" 
          alt="React" width="40" height="40"/>
   </a>
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" 
+         alt="Terraform" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" 
+         alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" 
+         alt="Kubernetes" width="40" height="40"/>
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" 
+         alt="Jenkins" width="40" height="40"/>
+  </a>
+  <a href="https://www.aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original-wordmark.svg" 
+         alt="AWS" width="40" height="40"/>
+  </a>
 </p>
+
 
 
 
