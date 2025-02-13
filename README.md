@@ -35,7 +35,7 @@ Automating infrastructure provisioning, building CI/CD pipelines, managing conta
 - 💡 Develop expertise in **cloud platforms** (AWS, Azure, GCP) and **Kubernetes** for managing infrastructure and improving the overall reliability of systems.
 - 🚀 Transition to **Site Reliability Engineering (SRE)** by gaining expertise in **monitoring, incident management**, and ensuring the reliability of large-scale systems.
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools:
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" 
@@ -98,8 +98,8 @@ Automating infrastructure provisioning, building CI/CD pipelines, managing conta
          alt="Jenkins" width="40" height="40"/>
   </a>
   <a href="https://www.aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original-wordmark.svg" 
-         alt="AWS" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" 
+       alt="AWS" width="40" height="40"/>
   </a>
 </p>
 
