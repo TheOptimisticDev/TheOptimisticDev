@@ -6,6 +6,7 @@
 <p align=""> <img src="https://komarev.com/ghpvc/?username=theoptimisticdev&label=Profile%20views&color=0e75b6&style=flat" alt="theoptimisticdev" /> </p>
 
 <a href="https://www.buymeacoffee.com/mabundawealth" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=mabundawealth&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me a Coffee"></a>
+
 ## 📌 About Me
 
 I’m currently diving deep into **DevOps** practices to enhance automation, infrastructure management, and deployment processes.
@@ -23,8 +24,8 @@ Automating infrastructure provisioning, building CI/CD pipelines, managing conta
 ## 📫 How to Reach Me
 
 - ✉️ Email: **mabunda.wealth@gmail.com**
-- 💼 LinkedIn: [yourprofile](https://linkedin.com/in/yourprofile)
-- 🌍 Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- 💼 LinkedIn: [Mfumu Wealth Mabunda](https://www.linkedin.com/in/mfumu-wealth-mabunda-353374159)
+- 🌍 Portfolio: [mfumu.com](https://mfumu.netlify.app)
 
 ## 🎯 Future Goals
 
@@ -97,26 +98,9 @@ Automating infrastructure provisioning, building CI/CD pipelines, managing conta
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" 
          alt="Jenkins" width="40" height="40"/>
   </a>
-  <a href="https://www.aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original-wordmark.svg" 
-         alt="AWS" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Web_Services_Logo.svg/800px-Amazon_Web_Services_Logo.svg.png" 
-       alt="AWS" width="40" height="40"/>
-  </a>
-    <!-- Google Cloud -->
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Google_Cloud_logo.svg/800px-Google_Cloud_logo.svg.png" 
-         alt="Google Cloud" width="40" height="40"/> Google Cloud 🌩️
-  </a>
-
-  <!-- Microsoft Azure -->
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Microsoft_Azure_Logo.svg" 
-         alt="Azure" width="40" height="40"/> Azure 🌐
-  </a>
 </p>
+
+ *Thanks for visiting my profile! Let's build something amazing together!* 🚀
 
 
 
