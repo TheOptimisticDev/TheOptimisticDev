@@ -3,7 +3,7 @@
 
 <h3 align="center">A Software Engineer | Front-End | React | Aspiring DevOps Professional.</h3>
 
-<img style="align:center;" alt="coding" width="" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?t=st=1739611770~exp=1739615370~hmac=e8b6c1daef56a7e5fb1d8033dda3251d5e3253a5023e31e290a3581c817cf79c&w=1380">
+<img style="align:center;" alt="coding" width="" src="https://img.freepik.com/free-vector/focus-abstract-concept-vector-illustration-training-concentration-focus-success-defined-business-goal-orientation-target-center-attention-focal-point-spotlight-abstract-metaphor_335657-2893.jpg?t=st=1739613679~exp=1739617279~hmac=fa4f73245d3289a8e2bb294a2132b0847002d7bc63588490b49e040e502665c0&w=826">
 
 <p> 
   <img src="https://komarev.com/ghpvc/?username=theoptimisticdev&label=Profile%20views&color=0e75b6&style=flat" alt="theoptimisticdev" /> 
@@ -26,8 +26,6 @@ I’m currently diving deep into **DevOps** practices to enhance automation, inf
 🔹 **Project Focus:**  
 Automating infrastructure provisioning, building CI/CD pipelines, managing containerized applications, and deploying scalable systems to the cloud. Exploring cloud-native technologies and best practices for high availability and performance optimization.
 
-<img style="align:center;" alt="coding" width="" src="https://img.freepik.com/free-vector/binary-code-concept-illustration_114360-6908.jpg?t=st=1739612256~exp=1739615856~hmac=10ebb81afd1b4969e10508be81b45378e874334d0c9850dec557c25c27bdd2ec&w=826">
-
 ## 📫 How to Reach Me
 
 <img style="align:center;" alt="coding" width="" src="https://img.freepik.com/free-vector/gradient-illustration-international-internet-day-celebration_23-2150756043.jpg?t=st=1739614141~exp=1739617741~hmac=4c49d2eece3e10a0a52518d1e848c9808499e2101cbbed1c80c6002e03e01b69&w=826">
@@ -48,6 +46,9 @@ Automating infrastructure provisioning, building CI/CD pipelines, managing conta
 - 🚀 Transition to **Site Reliability Engineering (SRE)** by gaining expertise in **monitoring, incident management**, and ensuring the reliability of large-scale systems.
 
 ## 💻 Languages and Tools:
+
+<img style="align:center;" alt="coding" width="" src="https://img.freepik.com/free-vector/illustrated-cms-concept-flat-design_23-2148800725.jpg?t=st=1739615827~exp=1739619427~hmac=4aa785384859ef2490c800c5bc587801798869c4144040ce733e54d79933761c&w=826">
+
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" 
