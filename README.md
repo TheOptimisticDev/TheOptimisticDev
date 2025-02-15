@@ -26,7 +26,7 @@ I’m currently diving deep into **DevOps** practices to enhance automation, inf
 🔹 **Project Focus:**  
 Automating infrastructure provisioning, building CI/CD pipelines, managing containerized applications, and deploying scalable systems to the cloud. Exploring cloud-native technologies and best practices for high availability and performance optimization.
 
-<img style="align:center;" alt="coding" width="" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?t=st=1739611770~exp=1739615370~hmac=e8b6c1daef56a7e5fb1d8033dda3251d5e3253a5023e31e290a3581c817cf79c&w=1380">
+<img style="align:center;" alt="coding" width="" src="https://img.freepik.com/free-vector/binary-code-concept-illustration_114360-6908.jpg?t=st=1739612256~exp=1739615856~hmac=10ebb81afd1b4969e10508be81b45378e874334d0c9850dec557c25c27bdd2ec&w=826">
 
 ## 📫 How to Reach Me
 
