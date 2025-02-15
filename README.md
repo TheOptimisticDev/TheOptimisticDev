@@ -38,14 +38,14 @@ Automating infrastructure provisioning, building CI/CD pipelines, managing conta
 
 ## 🎯 Future Goals
 
+<img style="align:center;" alt="coding" width="" src="https://img.freepik.com/free-vector/focus-abstract-concept-vector-illustration-training-concentration-focus-success-defined-business-goal-orientation-target-center-attention-focal-point-spotlight-abstract-metaphor_335657-2893.jpg?t=st=1739613679~exp=1739617279~hmac=fa4f73245d3289a8e2bb294a2132b0847002d7bc63588490b49e040e502665c0&w=826">
+
 - ✅ Master **DevOps practices** such as Infrastructure as Code (IaC), automation, CI/CD, and containerization for efficient deployment workflows.
 - 📱 Learn and develop **mobile applications** using **React Native** while implementing DevOps principles for continuous delivery and automation.
 - 🏆 Contribute to **open-source DevOps projects** to enhance my skills in automation tools, cloud technologies, and infrastructure management.
 - 🌟 Focus on **performance optimization** and **scalability** to ensure that applications are highly available, efficient, and resilient.
 - 💡 Develop expertise in **cloud platforms** (AWS, Azure, GCP) and **Kubernetes** for managing infrastructure and improving the overall reliability of systems.
 - 🚀 Transition to **Site Reliability Engineering (SRE)** by gaining expertise in **monitoring, incident management**, and ensuring the reliability of large-scale systems.
-
-<img style="align:center;" alt="coding" width="" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?t=st=1739611770~exp=1739615370~hmac=e8b6c1daef56a7e5fb1d8033dda3251d5e3253a5023e31e290a3581c817cf79c&w=1380">
 
 ## 💻 Languages and Tools:
 <p align="left">
