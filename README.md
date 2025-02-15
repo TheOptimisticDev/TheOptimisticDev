@@ -38,7 +38,7 @@ Automating infrastructure provisioning, building CI/CD pipelines, managing conta
 
 ## 🎯 Future Goals
 
-<img style="align:center;" alt="coding" width="" src="https://img.freepik.com/free-vector/focus-abstract-concept-vector-illustration-training-concentration-focus-success-defined-business-goal-orientation-target-center-attention-focal-point-spotlight-abstract-metaphor_335657-2893.jpg?t=st=1739613679~exp=1739617279~hmac=fa4f73245d3289a8e2bb294a2132b0847002d7bc63588490b49e040e502665c0&w=826">
+<img style="align:center;" alt="coding" width="" src="https://img.freepik.com/free-vector/advanced-computer-skills-concept-illustration_335657-5557.jpg?t=st=1739613965~exp=1739617565~hmac=a8c695304429aded5fcf225e13aff5d6e690f07a06042cf2ff099c62eb43e407&w=826">
 
 - ✅ Master **DevOps practices** such as Infrastructure as Code (IaC), automation, CI/CD, and containerization for efficient deployment workflows.
 - 📱 Learn and develop **mobile applications** using **React Native** while implementing DevOps principles for continuous delivery and automation.
