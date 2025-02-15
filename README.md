@@ -1,13 +1,17 @@
 ![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
 <h1 align="center">Hello! 👋, I am Mfumu Wealth Mabunda</h1>
-<h3 align="center">A Software Engineer | Front-End | React | Aspiring DevOps Professional.</h3>
-<img align="" alt="coding" width="" src="https://miro.medium.com/v2/format:jpg/resize:fill:80:56/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-<p align="center"> 
+<h3 align="center">A Software Engineer | Front-End | React | Aspiring DevOps Professional.</h3>
+
+<img align="center" alt="coding" width="" src="https://miro.medium.com/v2/format:jpg/resize:fill:80:56/0*7Q3yvSIv_t0ioJ-Z.gif">
+
+<p> 
   <img src="https://komarev.com/ghpvc/?username=theoptimisticdev&label=Profile%20views&color=0e75b6&style=flat" alt="theoptimisticdev" /> 
 </p>
 
-<a href="https://www.buymeacoffee.com/mabundawealth" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=mabundawealth&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me a Coffee"></a>
+<a href="https://www.buymeacoffee.com/mabundawealth" target="_blank">
+  <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=mabundawealth&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me a Coffee">
+</a>
 
 ## 📌 About Me
 
