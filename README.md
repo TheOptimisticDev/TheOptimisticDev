@@ -1,3 +1,4 @@
+<div style="background-image: src="https://img.freepik.com/free-vector/web-development-concept-with-programmer-ar_107791-17049.jpg?t=st=1739615193~exp=1739618793~hmac=b41d5060eae643931de6949c328d68ad941d18d231fa7b296cb2d50be52860bc&w=1380">
 ![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
 <h1 align="center">Hello! 👋, I am Mfumu Wealth Mabunda</h1>
 
@@ -119,6 +120,6 @@ Automating infrastructure provisioning, building CI/CD pipelines, managing conta
     TheOptimisticDev™ 
   </a> © 2025 💻
 </div>
-
+</div>
 
 
