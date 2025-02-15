@@ -100,7 +100,10 @@ Automating infrastructure provisioning, building CI/CD pipelines, managing conta
 </p>
 
 *Thanks for visiting my profile! Let's build something amazing together! Feel free to reach out if you want to collaborate on exciting projects, explore DevOps, or discuss technology trends. I'm always open to connecting with like-minded professionals who are passionate about innovation and technology. Let’s make great things happen!
-<a>TheOptimisticDev</a> © 2025*
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" 
+         alt="Bootstrap" width="40" height="40"/>
+  </a> © 2025*
 
 
 
