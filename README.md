@@ -3,7 +3,7 @@
 
 <h3 align="center">A Software Engineer | Front-End | React | Aspiring DevOps Professional.</h3>
 
-<img align="center" alt="coding" width="" src="https://miro.medium.com/v2/format:jpg/resize:fill:80:56/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img style="align:center;" alt="coding" width="" src="https://miro.medium.com/v2/format:jpg/resize:fill:80:56/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p> 
   <img src="https://komarev.com/ghpvc/?username=theoptimisticdev&label=Profile%20views&color=0e75b6&style=flat" alt="theoptimisticdev" /> 
