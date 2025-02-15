@@ -103,7 +103,7 @@ Automating infrastructure provisioning, building CI/CD pipelines, managing conta
 
 <div align="center">
   <a href="https://mfumuwealthmabunda.netlify.app/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    TheOptimisticDev™
+    <span style="text-decoration: none;">TheOptimisticDev™ </span>
   </a> © 2025
 </div>
 
