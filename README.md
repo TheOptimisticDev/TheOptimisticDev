@@ -3,7 +3,7 @@
 
 <h3 align="center">A Software Engineer | Front-End | React | Aspiring DevOps Professional.</h3>
 
-<img style="align:center;" alt="coding" width="" src="https://img.freepik.com/free-vector/focus-abstract-concept-vector-illustration-training-concentration-focus-success-defined-business-goal-orientation-target-center-attention-focal-point-spotlight-abstract-metaphor_335657-2893.jpg?t=st=1739613679~exp=1739617279~hmac=fa4f73245d3289a8e2bb294a2132b0847002d7bc63588490b49e040e502665c0&w=826">
+<img style="align:center;" alt="coding" width="" src="https://img.freepik.com/free-vector/web-development-concept-with-programmer-ar_107791-17049.jpg?t=st=1739615193~exp=1739618793~hmac=b41d5060eae643931de6949c328d68ad941d18d231fa7b296cb2d50be52860bc&w=1380">
 
 <p> 
   <img src="https://komarev.com/ghpvc/?username=theoptimisticdev&label=Profile%20views&color=0e75b6&style=flat" alt="theoptimisticdev" /> 
