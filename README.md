@@ -100,11 +100,10 @@ Automating infrastructure provisioning, building CI/CD pipelines, managing conta
 </p>
 
 *Thanks for visiting my profile! Let's build something amazing together! Feel free to reach out if you want to collaborate on exciting projects, explore DevOps, or discuss technology trends. I'm always open to connecting with like-minded professionals who are passionate about innovation and technology. Let’s make great things happen!
+
 <a href="https://mfumuwealthmabunda.netlify.app/" target="_blank" rel="noreferrer" style="text-decoration: none;">
   TheOptimisticDev
-</a>
-
- © 2025*
+</a> © 2025*
 
 
 
