@@ -3,7 +3,7 @@
 
 <h3 align="center">A Software Engineer | Front-End | React | Aspiring DevOps Professional.</h3>
 
-<img style="align:center;" alt="coding" width="" src="https://miro.medium.com/v2/format:jpg/resize:fill:80:56/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img style="align:center;" alt="coding" width="" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?t=st=1739611770~exp=1739615370~hmac=e8b6c1daef56a7e5fb1d8033dda3251d5e3253a5023e31e290a3581c817cf79c&w=1380">
 
 <p> 
   <img src="https://komarev.com/ghpvc/?username=theoptimisticdev&label=Profile%20views&color=0e75b6&style=flat" alt="theoptimisticdev" /> 
