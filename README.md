@@ -26,11 +26,15 @@ I’m currently diving deep into **DevOps** practices to enhance automation, inf
 🔹 **Project Focus:**  
 Automating infrastructure provisioning, building CI/CD pipelines, managing containerized applications, and deploying scalable systems to the cloud. Exploring cloud-native technologies and best practices for high availability and performance optimization.
 
+<img style="align:center;" alt="coding" width="" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?t=st=1739611770~exp=1739615370~hmac=e8b6c1daef56a7e5fb1d8033dda3251d5e3253a5023e31e290a3581c817cf79c&w=1380">
+
 ## 📫 How to Reach Me
 
 - ✉️ Email: **mabunda.wealth@gmail.com**
 - 💼 LinkedIn: [Mfumu Wealth Mabunda](https://www.linkedin.com/in/mfumu-wealth-mabunda-353374159)
 - 🌍 Portfolio: [Mfumu](https://mfumu.netlify.app)
+
+<img style="align:center;" alt="coding" width="" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?t=st=1739611770~exp=1739615370~hmac=e8b6c1daef56a7e5fb1d8033dda3251d5e3253a5023e31e290a3581c817cf79c&w=1380">
 
 ## 🎯 Future Goals
 
@@ -40,6 +44,8 @@ Automating infrastructure provisioning, building CI/CD pipelines, managing conta
 - 🌟 Focus on **performance optimization** and **scalability** to ensure that applications are highly available, efficient, and resilient.
 - 💡 Develop expertise in **cloud platforms** (AWS, Azure, GCP) and **Kubernetes** for managing infrastructure and improving the overall reliability of systems.
 - 🚀 Transition to **Site Reliability Engineering (SRE)** by gaining expertise in **monitoring, incident management**, and ensuring the reliability of large-scale systems.
+
+<img style="align:center;" alt="coding" width="" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?t=st=1739611770~exp=1739615370~hmac=e8b6c1daef56a7e5fb1d8033dda3251d5e3253a5023e31e290a3581c817cf79c&w=1380">
 
 ## 💻 Languages and Tools:
 <p align="left">
