@@ -3,7 +3,9 @@
 <h3 align="center">A Software Engineer | Front-End | React | Aspiring DevOps Professional.</h3>
 <img align="" alt="coding" width="" src="https://miro.medium.com/v2/format:jpg/resize:fill:80:56/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-<p align=""> <img src="https://komarev.com/ghpvc/?username=theoptimisticdev&label=Profile%20views&color=0e75b6&style=flat" alt="theoptimisticdev" /> </p>
+<p align=""> 
+  <img src="https://komarev.com/ghpvc/?username=theoptimisticdev&label=Profile%20views&color=0e75b6&style=flat" alt="theoptimisticdev" /> 
+</p>
 
 <a href="https://www.buymeacoffee.com/mabundawealth" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=mabundawealth&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me a Coffee"></a>
 
@@ -24,7 +26,7 @@ Automating infrastructure provisioning, building CI/CD pipelines, managing conta
 
 - ✉️ Email: **mabunda.wealth@gmail.com**
 - 💼 LinkedIn: [Mfumu Wealth Mabunda](https://www.linkedin.com/in/mfumu-wealth-mabunda-353374159)
-- 🌍 Portfolio: [mfumu.com](https://mfumu.netlify.app)
+- 🌍 Portfolio: [Mfumu](https://mfumu.netlify.app)
 
 ## 🎯 Future Goals
 
@@ -102,9 +104,9 @@ Automating infrastructure provisioning, building CI/CD pipelines, managing conta
 *Thanks for visiting my profile! Let's build something amazing together! Feel free to reach out if you want to collaborate on exciting projects, explore DevOps, or discuss technology trends. I'm always open to connecting with like-minded professionals who are passionate about innovation and technology. Let’s make great things happen!*
 
 <div align="center">
-  <a href="https://mfumuwealthmabunda.netlify.app/" target="_blank" rel="noreferrer" style="text-decoration: none; color: black;">
+  <a href="https://mfumuwealthmabunda.netlify.app/" target="_blank" rel="noreferrer">
     TheOptimisticDev™ 
-  </a> © 2025
+  </a> © 2025 💻
 </div>
 
 
