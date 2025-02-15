@@ -1,4 +1,3 @@
-<div style="background-image: url('https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png'); background-size: cover; background-position: center;">
 ![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
 <h1 align="center">Hello! 👋, I am Mfumu Wealth Mabunda</h1>
 
@@ -29,7 +28,7 @@ Automating infrastructure provisioning, building CI/CD pipelines, managing conta
 
 ## 📫 How to Reach Me
 
-<img style="align:center;" alt="coding" width="" src="https://img.freepik.com/free-vector/gradient-illustration-international-internet-day-celebration_23-2150756043.jpg?t=st=1739614141~exp=1739617741~hmac=4c49d2eece3e10a0a52518d1e848c9808499e2101cbbed1c80c6002e03e01b69&w=826">
+<img style="align:center; width: 10%;" alt="coding" width="" src="https://img.freepik.com/free-vector/gradient-illustration-international-internet-day-celebration_23-2150756043.jpg?t=st=1739614141~exp=1739617741~hmac=4c49d2eece3e10a0a52518d1e848c9808499e2101cbbed1c80c6002e03e01b69&w=826">
 
 - ✉️ Email: **mabunda.wealth@gmail.com**
 - 💼 LinkedIn: [Mfumu Wealth Mabunda](https://www.linkedin.com/in/mfumu-wealth-mabunda-353374159)
@@ -119,6 +118,5 @@ Automating infrastructure provisioning, building CI/CD pipelines, managing conta
   <a href="https://mfumuwealthmabunda.netlify.app/" target="_blank" rel="noreferrer">
     TheOptimisticDev™ 
   </a> © 2025 💻
-</div>
 </div>
 
